@@ -4,7 +4,7 @@ This project is a simple clone of the Netflix landing page, designed to replicat
 
 ## Preview
 
-![Netflix Clone Preview](750_netflix.jpg)
+![Netflix Clone Preview](<img width="1440" alt="Screenshot 2024-08-01 at 11 38 59 AM" src="https://github.com/user-attachments/assets/382298f2-0641-4156-8a4b-137a864bf074">
 
 ## Features
 
