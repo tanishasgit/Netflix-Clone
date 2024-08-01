@@ -23,3 +23,12 @@ This project is a simple clone of the Netflix landing page, designed to replicat
 
 - **HTML5**: The structure of the webpage.
 - **CSS3**: Styling and layout of the webpage.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+**Note**: This project is for educational purposes only. All rights to the original Netflix content and branding belong to Netflix, Inc.
+
